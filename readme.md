@@ -2,6 +2,8 @@
 
 Welcome to NetHyTech-MCV, the cutting-edge Python package that harnesses the power of neural networks and computer vision to control your computer's mouse with hand gestures. Experience the future today with NetHyTech-MCV!
 
+![NetHyTech-MCV Demo](demo.gif)
+
 ## Installation
 
 Install NetHyTech-MCV with a single command using pip:
